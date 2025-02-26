@@ -9,9 +9,13 @@ Dark-gray:#1E1E1E;
 White:#ffffff; 
 */
 
-/* -------------------- CSS BY NAME -------------------------------------- 
+/* -------------------- CSS BY NAME -------------------------------------- */
 .ourServices {
     background-color: #ffffff;
+}
+
+.whyChoose {
+    background-color: #D9526F;
 }
 /* -------------------- IMPORTED FONTS -------------------------------------- */
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kavoon&display=swap');
@@ -56,10 +60,7 @@ h4 {
 }
 
 
-/* -------------------- CSS BY NAME -------------------------------------- */
-.ourServices {
-    background-color: #ffffff;
-}
+
 
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
 
