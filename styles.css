@@ -11,15 +11,26 @@ White:#ffffff;
 
 /* -------------------- CSS BY NAME -------------------------------------- */
 .ourServices {
-    padding: 50px;
+    padding-bottom: 50px;
 }
 .personalDevelopment, .careerCoaching, .relationshipCoaching {
     background-color: #ffffff;
-    max-width: 80%;
 }
 
 .whyChoose {
     background-color: #D9526F;
+}
+.one {
+    background-color: #4CA7C0;
+}
+.two {
+    background-color: #6B8FE7;
+}
+.three {
+    background-color: #E9BB57;
+}
+.four {
+    background-color: #ffffff;
 }
 
 /* -------------------- IMPORTED FONTS -------------------------------------- */
