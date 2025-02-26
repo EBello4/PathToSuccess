@@ -18,10 +18,11 @@ White:#ffffff;
 /* -------------------- ROOT VARIABLES --------------------------------------- */
 h1, h2 {
     font-family: "Kavoon", Arial, Helvetica, sans-serif;
+    color: #ffffff;
 }
 
 body {
-    background-color: #6B8FE7;
+    background-color: #484FB7;
 }
 html {
     font-family: "Inter", Arial, Helvetica, sans-serif;
@@ -29,6 +30,7 @@ html {
 
 h1 {
     font-size: 3em;
+    background-color: #6B8FE7;
 }
 
 h2 > nav {
@@ -41,6 +43,7 @@ h2 {
 
 h3 {
     font-size: 1.5em;
+    color: #E9BB57;
 }
 
 h4 {
