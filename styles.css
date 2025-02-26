@@ -17,7 +17,7 @@ White:#ffffff;
     background-color: #ffffff;
 }
 
-.whyChoose {
+.whyChoose, .firstSteps {
     background-color: #D9526F;
     text-decoration: none;
 }
@@ -79,7 +79,7 @@ h4 {
 
 a {
     text-decoration: none;
-    
+
 }
 
 th {
