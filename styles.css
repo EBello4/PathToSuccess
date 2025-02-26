@@ -20,9 +20,11 @@ h1, h2 {
     font-family: "Kavoon", Arial, Helvetica, sans-serif;
 }
 
+body {
+    background-color: #6B8FE7;
+}
 html {
     font-family: "Inter", Arial, Helvetica, sans-serif;
-    background-color: #6B8FE7;
 }
 
 h1 {
