@@ -81,9 +81,16 @@ a {
     text-decoration: none;
 
 }
+table {
+    background-color: #E9BB57;
+}
 
 th {
     background-color: #E9BB57;
+}
+
+table td {
+    background-color: #ffffff;
 }
 
 
