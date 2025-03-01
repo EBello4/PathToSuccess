@@ -100,7 +100,7 @@ a {
     padding: 20px;
 }
 
-.firstSteps p {
+.firstSteps p, .firstSteps a {
     color: #ffffff;
 }
 
