@@ -71,9 +71,6 @@ a {
 
 .whyChoose, .firstSteps {
     background-color: #D9526F;
-    text-decoration-style: none;
-    text-decoration-line: none;
-    text-decoration-color: #000000;
 }
 .whyChoose > li {
     list-style-type: none;
