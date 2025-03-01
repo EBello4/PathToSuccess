@@ -116,6 +116,8 @@ ul.whyChoose, ul.firstSteps {
 .footer {
     color: #ffffff;
     background-color: #4CA7C0;
+    width: 100%;
+    height: 300px;
 }
 
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
