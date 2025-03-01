@@ -110,13 +110,12 @@ ul.whyChoose, ul.firstSteps {
 .firstSteps > a {
     color: #000000;
     background-color: #ffffff;
-    padding: 50px;
-    margin: 20px;
+    
 }
 
 .footer {
-    background-color: #4CA7C0;
     color: #ffffff;
+    background-color: #4CA7C0;
     align-content: center;
 }
 
