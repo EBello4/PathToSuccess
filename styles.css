@@ -72,9 +72,12 @@ a {
 .whyChoose, .firstSteps {
     background-color: #D9526F;
 }
-.whyChoose > li {
+ul.whyChoose, ul.firstSteps {
     list-style-type: none;
+    margin: none;
+    padding: none;
 }
+
 
 .one {
     background-color: #4CA7C0;
