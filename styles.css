@@ -102,8 +102,11 @@ ul.whyChoose, ul.firstSteps {
     padding: 20px;
 }
 
-.firstSteps > p, .firstSteps > a {
+.firstSteps > p {
     color: #ffffff;
+}
+.firstSteps > a {
+    color: #000000;
 }
 
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
