@@ -92,15 +92,13 @@ a {
 
 .table {
     background-color: #E9BB57;
+    margin: 30px;
 }
 
 .table td {
     background-color: #ffffff;
 }
 
-.table > tr {
-    padding: 20px;
-}
 
 
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
