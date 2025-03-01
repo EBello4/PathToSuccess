@@ -114,6 +114,12 @@ ul.whyChoose, ul.firstSteps {
     margin: 20px;
 }
 
+.footer {
+    background-color: #4CA7C0;
+    color: #ffffff;
+    align-content: center;
+}
+
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
 
 /*-------------------- MEDIA QUERY (medium) --------------------------------*/
