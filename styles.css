@@ -85,12 +85,13 @@ a {
     background-color: #E9BB57;
 }
 
-/* th {
-    background-color: #E9BB57;
-} */
 
 .table td {
     background-color: #ffffff;
+}
+
+.table > tr {
+    padding: 20px;
 }
 
 
