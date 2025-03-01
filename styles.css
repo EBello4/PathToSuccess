@@ -64,6 +64,7 @@ a {
 }
 .personalDevelopment, .careerCoaching, .relationshipCoaching, .supportiveCoaching, .focusedSessions, .interactiveLearning, .flexibleLearning {
     background-color: #ffffff;
+    border-radius: 20px;
     padding: 20px;
 }
 
