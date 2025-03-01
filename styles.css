@@ -10,29 +10,6 @@ White:#ffffff;
 */
 
 /* -------------------- CSS BY NAME -------------------------------------- */
-.ourServices {
-    padding-bottom: 50px;
-}
-.personalDevelopment, .careerCoaching, .relationshipCoaching {
-    background-color: #ffffff;
-}
-
-.whyChoose, .firstSteps {
-    background-color: #D9526F;
-    text-decoration: none;
-}
-.one {
-    background-color: #4CA7C0;
-}
-.two {
-    background-color: #6B8FE7;
-}
-.three {
-    background-color: #E9BB57;
-}
-.four {
-    background-color: #ffffff;
-}
 
 
 /* -------------------- IMPORTED FONTS -------------------------------------- */
@@ -74,17 +51,45 @@ h3 {
 
 h4 {
     font-size: 1.14em;
-    color: #6B8FE7;
+    color: #484FB7;
 }
 
 a {
     text-decoration: none;
 
 }
+
+.ourServices {
+    padding-bottom: 50px;
+}
+.personalDevelopment, .careerCoaching, .relationshipCoaching {
+    background-color: #ffffff;
+}
+
+.whyChoose, .firstSteps {
+    background-color: #D9526F;
+    text-decoration: none;
+}
+.whyChoose > li {
+    list-style-type: none;
+}
+
+.one {
+    background-color: #4CA7C0;
+}
+.two {
+    background-color: #6B8FE7;
+}
+.three {
+    background-color: #E9BB57;
+}
+.four {
+    background-color: #ffffff;
+}
+
 .table {
     background-color: #E9BB57;
 }
-
 
 .table td {
     background-color: #ffffff;
