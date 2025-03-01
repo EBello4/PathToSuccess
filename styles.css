@@ -74,10 +74,8 @@ a {
 .whyChoose, .firstSteps {
     background-color: #D9526F;
 }
-ul.whyChoose, ul.firstSteps {
+.whyChoose ul {
     list-style-type: none;
-    margin: none;
-    padding: none;
 }
 
 
