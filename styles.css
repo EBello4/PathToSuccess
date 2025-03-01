@@ -107,6 +107,9 @@ ul.whyChoose, ul.firstSteps {
 }
 .firstSteps > a {
     color: #000000;
+    background-color: #ffffff;
+    padding: 50px;
+    margin: 20px;
 }
 
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
