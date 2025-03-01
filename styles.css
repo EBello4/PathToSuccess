@@ -81,15 +81,15 @@ a {
     text-decoration: none;
 
 }
-table {
+.table {
     background-color: #E9BB57;
 }
 
-th {
+/* th {
     background-color: #E9BB57;
-}
+} */
 
-table td {
+.table td {
     background-color: #ffffff;
 }
 
